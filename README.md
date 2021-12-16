@@ -24,7 +24,7 @@
 ### `npm install redux-saga --save`
 
 ## Setup the database
-### `json-server redux-db.json --watch --port=7000`
+### `json-server redux-db.json --watch --port=7000 --delay=1000`
 
 ## Run
 ### `npm start`
