@@ -1,6 +1,12 @@
 # Reminder App using React Redux
 
 ## Overview
+### Idea
+- Users are able to add and delete new tasks, as well as cancel a new task. 
+- The new task contains a title, date, and time. 
+- Date and time are formatted (day month year time).
+- The database is set as 1 second delay, and users can choose to stop (cancel) loading data. 
+- Tasks are saved at the redux-db.json file. 
 
 ## Tools/Techniques
 - HTML
