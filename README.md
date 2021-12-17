@@ -1,4 +1,4 @@
-# Reminder App using React Redux
+# Reminders App using React Redux
 
 ## Overview
 ### Idea
